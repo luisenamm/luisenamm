@@ -7,11 +7,15 @@
 
 
 <a href="https://twitter.com/luisenamm">
-        <img align="left" alt="luisenamm | Twitter" width="45px" padding-bottom="15px" src="https://github.com/luisenamm/luisenamm/blob/main/images/Twitter.svg">
+        <img align="left" alt="luisenamm | Twitter" width="45px" padding-bottom="15px" src="https://github.com/luisenamm/luisenamm/blob/main/images/Twitter.png">
 </a>
 
 <a href="https://www.linkedin.com/in/luis-eduardo-nunez-altamirano/">
-    <img align="left" alt="luisenamm | Linkedin" width="45px" padding-bottom="15px" src="https://github.com/luisenamm/luisenamm/blob/main/images/Linkedin.svg" />
+    <img align="left" alt="luisenamm | Linkedin" width="45px" padding-bottom="15px" src="https://github.com/luisenamm/luisenamm/blob/main/images/Linkedin.png" />
+  </a>
+
+<a href="mailto:luis.n.nunez@oracle.com">
+    <img align="left" alt="luisenamm | Email" width="45px" padding-bottom="15px" src="https://github.com/luisenamm/luisenamm/blob/main/images/Email.png" />
   </a>
 
  <br/> <br/> <br/>
