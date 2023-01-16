@@ -1,6 +1,8 @@
 # Hi there, I'm Luis  👋
 
  I'm a Software Engineer graduated from Tec de Monterrey in Guadalajara, México 🇲🇽
+ Currently working at ![Oracle](https://github.com/luisenamm/luisenamm/blob/main/images/Oracle.svg)
+## <img src="https://github.com/luisenamm/luisenamm/blob/main/images/Oracle.svg">
 
 ## Connect with me:
 
